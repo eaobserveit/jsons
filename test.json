@@ -1,0 +1,15 @@
+{
+    "urls": [
+        "Rule",
+        "D_2004_d_Exfil of PHI Content to the Web",
+        "D_2004_d_PHI Content to unapproved Sync Folder",
+        "D_1004_d_PHI Content to USB",
+        "D-1004_d_Copy&Paste of Sensitive Content",
+        "D_2004_d_Exfil of PII Content to the Web",
+        "D_2004_d_PII Content to unapproved Sync Folder",
+        "D_1004_d_PII Content to USB",
+        "D_2004_d_Exfil of PCI Content to the Web",
+        "D_2004_d_PCI Content to unapproved Sync Folder",
+        "D_1004_d_PCI Content to USB"
+    ]
+}
