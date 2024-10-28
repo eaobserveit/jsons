@@ -1,0 +1,29 @@
+{
+    "CUSIPTerms": [
+        "CUSIP",
+        "Issuer",
+        "Maturity Date",
+        "Coupon Rate",
+        "Yield",
+        "Face Value",
+        "Market Price",
+        "Par Value",
+        "Issue Date",
+        "Call Date",
+        "Put Date",
+        "Convertible",
+        "Callable",
+        "Putable",
+        "Interest Payment Date",
+        "Settlement Date",
+        "Accrued Interest",
+        "Discount",
+        "Premium",
+        "Corporate Bond",
+        "Municipal Bond",
+        "Treasury Bond",
+        "Mortgage-Backed Security",
+        "Asset-Backed Security",
+        "Zero-Coupon Bond"
+    ]
+}
