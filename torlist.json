@@ -1,1 +1,15 @@
-{         "urls": ["firefox","brave","whonix"]}
+{"urls": [
+  "firefox",
+  "brave",
+  "whonix",
+  "tor",
+  "waterfox",
+  "epic",
+  "tails",
+  "librewolf",
+  "icedragon",
+  "yandex",
+  "palemoon",
+  "iridum",
+  "cocoon"
+]}
