@@ -1,19 +1,30 @@
 {
-    "urls": [
-        "nosleep",
-        "winsleep",
-        "stayawake",
-        "nodoze",
-        "mousejiggle",
-        "insomniate",
-        "ginseng",
-        "caffeinated",
-        "coffee_ff",
-        "dontsleep",
-        "caffeine64",
-        "PowerToys.Awake",
-        "caffeine",
-        "PreventTurnOff",
-        "mousemove"
-    ]
+  "urls": [
+    "nosleep",
+    "winsleep",
+    "stayawake",
+    "nodoze",
+    "mousejiggle",
+    "insomniate",
+    "ginseng",
+    "caffeinated",
+    "coffee_ff",
+    "dontsleep",
+    "caffeine64",
+    "PowerToys.Awake",
+    "caffeine",
+    "PreventTurnOff",
+    "mousemove",
+    "keepawake",
+    "autowakeup",
+    "mousemover",
+    "joystickmove",
+    "foreverawake",
+    "stayawakesoftware",
+    "alwayson",
+    "easyawake",
+    "keepitawake",
+    "awaketool",
+    "undisturbedmode"
+  ]
 }
