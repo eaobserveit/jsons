@@ -1,0 +1,12 @@
+{
+    "slacktoken_terms": [
+        "token",
+        "access_key",
+        "aws_access_key_id",
+        "azure storage account",
+        "slack access token",
+        "zap token",
+        "refresh_token",
+        "slack_token"
+    ]
+}
