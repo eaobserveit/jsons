@@ -1,0 +1,16 @@
+{
+    "gcpapi_terms": [
+        "token",
+        "access_key",
+        "gcp_access_key_id",
+        "refresh_token",
+        "session_token",
+        "access_token",
+        "secret_key",
+        "service_account_key",
+        "key",
+        "oauth_client_id",
+        "oauth_id",
+        "oauth"
+    ]
+}
