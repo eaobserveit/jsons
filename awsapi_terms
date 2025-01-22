@@ -1,0 +1,18 @@
+{
+    "awsapi_terms": [
+        "token",
+        "auth",
+        "key",
+        "access_key",
+        "secret_key",
+        "aws_access_key_id",
+        "aws_secret_access_key",
+        "aws_s3",
+        "accountkey",
+        "secret",
+        "securestring",
+        "ClientSecret",
+        "refresh_token",
+        "session_token"
+    ]
+}
