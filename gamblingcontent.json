@@ -1,1 +1,3 @@
-{"$stringIn":{"{{resource.site.categorization.categories.name}}":["gambling"]}}
+{
+"urls": 
+[{"$stringIn":{"{{resource.site.categorization.categories.name}}":["gambling"]}}]}
