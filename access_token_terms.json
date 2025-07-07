@@ -1,0 +1,127 @@
+{
+  "AWS": [
+    "aws_access_key",
+    "aws_access_key_id",
+    "aws_secret_access_key",
+    "aws_session_token",
+    "aws_credentials",
+    "aws_creds"
+  ],
+  "Azure": [
+    "azure_sas",
+    "azure_sas_token",
+    "azure_storage_key",
+    "azure_secret",
+    "azure_access_key"
+  ],
+  "Google": [
+    "google_api_key",
+    "gcp_api_key",
+    "gcp_service_account",
+    "google_service_account",
+    "gcp_private_key",
+    "gcp_credentials"
+  ],
+  "IBM_Oracle_OtherCloud": [
+    "ibm_api_key",
+    "oracle_api_key",
+    "cloud_api_key",
+    "cloud_access_key",
+    "cloud_secret_key"
+  ],
+  "GenericAPIKeys": [
+    "api_key",
+    "apikey",
+    "api_token",
+    "api_secret",
+    "access_token",
+    "secret_token",
+    "auth_token",
+    "authorization"
+  ],
+  "OAuth_JWT": [
+    "oauth_token",
+    "oauth_access_token",
+    "oauth_refresh_token",
+    "jwt",
+    "jwt_token",
+    "bearer_token"
+  ],
+  "Client_Consumer": [
+    "client_id",
+    "client_secret",
+    "consumer_key",
+    "consumer_secret",
+    "app_id",
+    "app_secret",
+    "service_account"
+  ],
+  "Encryption_PrivateKeys": [
+    "rsa_private_key",
+    "dsa_private_key",
+    "ec_private_key",
+    "ed25519_private_key",
+    "openssh_private_key",
+    "private_key",
+    "pgp_private_key",
+    "gpg_private_key"
+  ],
+  "Base64_Encoded": [
+    "base64",
+    "base64_encoded",
+    "encoded_secret",
+    "encoded_credentials"
+  ],
+  "StorageAccess": [
+    "s3_access_key",
+    "s3_secret_key",
+    "azure_storage_key",
+    "google_storage_key",
+    "storage_account_key"
+  ],
+  "Messaging_Webhooks": [
+    "slack_token",
+    "slack_webhook",
+    "discord_token",
+    "discord_webhook",
+    "teams_webhook",
+    "mattermost_webhook"
+  ],
+  "SourceControl_CICD": [
+    "github_token",
+    "gitlab_token",
+    "bitbucket_token",
+    "bitbucket_password",
+    "travis_token",
+    "circleci_token",
+    "jenkins_token",
+    "netlify_token",
+    "vercel_token"
+  ],
+  "DatabaseCredentials": [
+    "db_password",
+    "database_password",
+    "db_user",
+    "db_username",
+    "db_uri",
+    "mongo_uri",
+    "redis_uri",
+    "mysql_connection_string",
+    "postgres_connection_string"
+  ],
+  "Payment_Financial": [
+    "stripe_secret_key",
+    "stripe_publishable_key",
+    "paypal_client_id",
+    "paypal_client_secret",
+    "square_access_token",
+    "plaid_secret",
+    "braintree_access_token"
+  ],
+  "Misc_Recovery": [
+    "bitlocker_key",
+    "recovery_key",
+    "secret_phrase",
+    "encrypted_password"
+  ]
+}
