@@ -1,4 +1,5 @@
-"balance sheet",
+{
+  "terms": ["balance sheet",
 "assets",
 "equity",
 "liabilities",
@@ -8,4 +9,5 @@
 "expenses",
 "profit",
 "loss",
-"income",
+"income"]
+}
