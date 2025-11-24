@@ -89,7 +89,6 @@
     "netstumbler",
     "netscantools",
     "networkminer",
-    "nc",
     "nexpose",
     "nikto.pl",
     "ngrep",
@@ -154,3 +153,4 @@
     "zenmap"
   ]
 }
+
