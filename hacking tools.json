@@ -7,7 +7,6 @@
     "fping",
     "superscan",
     "unicornscan",
-    "nc",
     "netscantools",
     "nessusd",
     "openvas",
@@ -150,3 +149,4 @@
     "diverse"
   ]
 }
+
