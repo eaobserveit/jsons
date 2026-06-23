@@ -1,28 +1,18 @@
 {
   "terms": [
-    "Número de Identificación Fiscal",
-    "NIF",
-    "Número de Identificación de Extranjero",
-    "NIE",
-    "Numéro d'Identification Fiscale",
-    "NIF",
-    "Numéro de TVA intracommunautaire",
-    "TVA",
     "Codice Fiscale",
-    "CF",
+    "National Insurance Number",
+    "NINO",
+    "Numéro d'Identification Fiscale",
+    "Numéro de TVA",
+    "Numéro de TVA intracommunautaire",
+    "Número de Identificación de Extranjero",
+    "Número de Identificación Fiscal",
     "Partita IVA",
-    "IVA",
     "Steueridentifikationsnummer",
     "Steuernummer",
     "Umsatzsteuer-Identifikationsnummer",
-    "UST-ID",
-    "Numéro d'Identification Fiscale",
-    "NIF",
-    "Numéro de TVA",
-    "TVA",
     "Unique Taxpayer Reference",
-    "UTR",
-    "National Insurance Number",
-    "NINO"
+    "UST-ID"
   ]
 }
