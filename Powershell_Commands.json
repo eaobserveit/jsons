@@ -41,6 +41,7 @@
     "Disable-LocalUser",
     "Disable-NetFirewallRule",
     "Disable-WindowsOptionalFeature",
+    "diskshadow",
     "DownloadData",
     "DownloadString",
     "Enable-LocalUser",
@@ -104,6 +105,7 @@
     "New-Object",
     "New-PSSession",
     "New-Service",
+    "ntdsutil",
     "Out-File",
     "powershell.exe",
     "procdump",
@@ -149,6 +151,7 @@
     "Unregister-ScheduledTask",
     "WebClient",
     "wmic",
-    "wscript"
+    "wscript",
+    "vssadmin"
   ]
 }
