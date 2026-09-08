@@ -10,6 +10,7 @@
     "chromiumportable",
     "citrio",
     "cyberfox",
+    "duckduckgobrowser",
     "epicprivacybrowser",
     "firefoxportable",
     "floorp",
@@ -32,6 +33,7 @@
     "vivaldi",
     "waterfox",
     "wavebrowser",
-    "yandexbrowser"
+    "yandexbrowser",
+    "zenbrowser"
   ]
 }
