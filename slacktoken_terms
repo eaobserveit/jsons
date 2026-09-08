@@ -7,6 +7,10 @@
         "slack access token",
         "zap token",
         "refresh_token",
-        "slack_token"
+        "slack_token",
+"xoxb",
+"xoxp",
+"xapp",
+"xwfp"
     ]
 }
