@@ -47,6 +47,9 @@
     "mullvadbrowser",
     "netsurf",
     "nyxt",
-    "operaportable"
+    "operaportable",
+    "thorium", 
+    "seamonkey", 
+    "qutebrowser",
   ]
 }
