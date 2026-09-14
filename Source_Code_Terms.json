@@ -37,4 +37,7 @@
 "Public Declare Sub",
 "Public Declare Function",
 "Public Partial class",
-"include <"]}
+"include <",
+"JWT::decode(",
+"jsonwebtoken::decode("
+]}
