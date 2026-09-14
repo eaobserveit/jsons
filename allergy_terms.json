@@ -127,6 +127,9 @@
     "Wasp Sting Allergy",
     "Weed Pollen Allergy",
     "Wheat",
-    "Wheat Allergy"
+    "Wheat Allergy",
+    "Xolair", 
+    "Omalizumab", 
+    "Dupixent",
   ]
 }
