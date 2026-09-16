@@ -1,23 +1,15 @@
-{"ssn_terms":[
-"SSA Number",
-    "social security number",
-    "social security #",
-    "social security#",
-    "social security no",
-    "Soc Sec",
-    "SSN",
-    "SSNS",
-    "SSN#",
-    "SS#",
-    "SSID",
-    "soc",
-    "social security",
-    "w2 s",
-    "social",
-    "w2 c",
-    "tax id",
-    "w 2",
-    "ssnid",
-    "ss",
-    "w2 1099",
-    "social insurance number"]}
+{"ssn_terms":
+[
+"SSN Number",
+"social security number",
+"social security #",
+"social security#",
+"social security no",
+"SSN",
+"SSNS",
+"SSN#",
+"social security",
+"ssnid",
+"social insurance number"
+]
+}
