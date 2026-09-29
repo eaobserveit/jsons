@@ -19,6 +19,8 @@
         "Accrued Interest",
         "Discount",
         "Premium",
+        "SEDOL",
+        "FIGI",
         "Corporate Bond",
         "Municipal Bond",
         "Treasury Bond",
