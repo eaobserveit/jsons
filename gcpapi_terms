@@ -11,6 +11,7 @@
         "key",
         "oauth_client_id",
         "oauth_id",
-        "oauth"
+        "oauth",
+"auth_provider_x509_cert_url"
     ]
 }
