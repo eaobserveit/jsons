@@ -15,6 +15,7 @@
         "openstego",
         "picsel",
         "stgp",
-        "xiao_steg"
+        "xiao_steg",
+        "StegSeek", "PixelKnot", "Aletheia"
     ]
 }
