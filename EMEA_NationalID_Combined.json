@@ -2,13 +2,9 @@
   "terms": [
     "Birth Date",
     "Date of Birth",
-    "NI #",
-    "NI No.",
     "NI Number",
-    "NI#",
     "ausweis",
     "bnn",
-    "bnn#",
     "carte d'identité",
     "carte nationale d'identite no",
     "carte nationale d'identité",
@@ -19,7 +15,6 @@
     "codice personale",
     "code sécu",
     "d'identité nationale",
-    "dni",
     "documento nacional de identidad",
     "fiscal code",
     "gpid",
@@ -47,7 +42,6 @@
     "nationalnumber",
     "nationalnumber#",
     "nif",
-    "nif#",
     "no d'identite",
     "no d'identité",
     "numéro d'assurance maladie",
@@ -93,6 +87,9 @@
     "social security number",
     "steuernummer",
     "sverige pass",
-    "sécurité sociale"
+    "sécurité sociale",
+    "PPSN", 
+    "CPR number", 
+    "Henkilötunnus"
   ]
 }
