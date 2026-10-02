@@ -37,7 +37,8 @@
     "access_token",
     "secret_token",
     "auth_token",
-    "authorization"
+    "authorization",
+    "deepseek_api_key", "groq_api_key", "cohere_api_key", "xai_api_key", "openai_api_key", "anthropic_api_key", "huggingface_token"
   ],
   "OAuth_JWT": [
     "oauth_token",
