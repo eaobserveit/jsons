@@ -16,6 +16,8 @@
         "picsel",
         "stgp",
         "xiao_steg",
-        "StegSeek", "PixelKnot", "Aletheia"
+        "StegSeek", "PixelKnot", "Aletheia",
+        "StegCloak", "OpenPuff", "SilentEye", "DeepSound", "steghide", 
+        "outguess", "zsteg", "stegosuite", "stegcracker", "ST3GG", "StegoForge"
     ]
 }
