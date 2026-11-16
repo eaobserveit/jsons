@@ -90,6 +90,7 @@
     "sécurité sociale",
     "PPSN", 
     "CPR number", 
-    "Henkilötunnus"
+    "Henkilötunnus",
+    "Rodné číslo", "EMŠO", "Personas kods", "Asmens kodas", "Isikukood", "Cod Numeric Personal", "PESEL", "burgerservicenummer"
   ]
 }
