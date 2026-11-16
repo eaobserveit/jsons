@@ -8,6 +8,7 @@
     "Employee Information",
     "Personnel",
     "HR",
-    "Human Resources"
+    "Human Resources",
+"근로자", "사번", "Employee ID"
   ]
 }
