@@ -47,6 +47,9 @@
 "teamviewer_service",
 "winagent",
 "windowsagent",
-"xeoxagent"
+"xeoxagent",
+"remotepcservice", "anydesk", "cagservice", "hoptodesk", "strwinclt", "splashtop-streamer", 
+"rustdesk", "meshagent", "basupsrvc", "aeroadmin", "winvnc", "tvnserver", "rutserv", "rfusclient", 
+"simplehelpcustomer", "getscreen", "helpwire", "ultraviewer", "tiagent", "ticlientcore", "radmin", "ltsvcmon"
   ]
 }
