@@ -48,6 +48,7 @@
     "wiggler",
     "wnck-jiggler",
     "xdotool",
-    "xte"
+    "xte",
+    "macmousejiggler", "automousemover"
   ]
 }
