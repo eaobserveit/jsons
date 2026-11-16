@@ -77,6 +77,7 @@
     "xmr-stak",
     "xmrig",
     "xmrig-amd",
-    "xmrig-cuda"
+    "xmrig-cuda",
+    "bzminer", "bosminer", "vnish", "luxos"
   ]
 }
