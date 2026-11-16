@@ -8,6 +8,7 @@
     "Street Address",
     "Mailing Address",
     "Home Address",
-    "Residence"
+    "Residence",
+"도로명주소", "배송지", "Shipping Address"
   ]
 }
