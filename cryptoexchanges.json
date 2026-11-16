@@ -157,6 +157,7 @@
     "edgex.exchange", 
     "drift.trade", 
     "aevo.xyz",
-    "gmx.io", "orderly.network", "paradex.trade"
+    "gmx.io", "orderly.network", "paradex.trade",
+    "grvt.io", "variational.io", "extended.exchange"
   ]
 }
